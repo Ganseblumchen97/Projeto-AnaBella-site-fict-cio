@@ -1,0 +1,42 @@
+
+.background {
+    background-image: url('images/fundo.png');
+    background-size: 10%;
+    
+}
+.div1 {
+    background-color: #ddddbb;
+    padding: 20px;
+    width: 860px;
+}
+.text {
+    text-transform: uppercase;
+    margin-right: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.text a {
+    text-decoration-line: none;
+    color: #005580;
+    font-weight: 550;
+}
+.div2 {
+    background-color: #f6f6ee;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 880px;
+}
+.div2 h1 {
+    color: #d3d3ab;
+}
+.cr {
+    background: none;
+    width: 880px;
+    text-align: center;
+    font-size: 18px;
+}
+.borda {
+    border-style: solid;
+    border-color: #ddddbb;
+    border-width: 20px;
+}
